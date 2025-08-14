@@ -1,3 +1,15 @@
+Configuration data for hugginface spaces(DONOT delete)
+metadata
+title: Food Image Generator
+sdk: gradio
+emoji: 💻
+colorFrom: yellow
+colorTo: pink
+pinned: false
+short_description: 'AI based image generation app for western and Indian food '
+sdk_version: 5.42.0
+
+---
 🍽️ AI Food Image Generator
 
 Generate stunning, realistic food images using AI! This application uses fine-tuned Stable Diffusion models specialized for Western and Indian cuisine to create quality food photos from simple text descriptions.
