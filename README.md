@@ -1,21 +1,8 @@
----
-title: Food Image Generator
-emoji: 💻
-colorFrom: yellow
-colorTo: pink
-sdk: gradio
-sdk_version: 5.42.0
-app_file: app.py
-pinned: false
-short_description: Stable diffusion-based finetuned generator for food images
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
----
-
 🍽️ AI Food Image Generator
+
 Generate stunning, realistic food images using AI! This application uses fine-tuned Stable Diffusion models specialized for Western and Indian cuisine to create quality food photos from simple text descriptions.
+
+(Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference)
 
 ✨ Features:
 
@@ -27,7 +14,7 @@ Generate stunning, realistic food images using AI! This application uses fine-tu
 
 🖥️ Easy Interface: Simple web-based UI, no technical knowledge required
 
-🔧 Customizable: Adjustable steps, guidance scale, and seed for reproducible results
+🔧 Customizable: seed for reproducible results
 
 
 <b>How to Use (Online)</b>
