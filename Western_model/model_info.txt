@@ -1,0 +1,12 @@
+Western Food Generator Model
+Training completed with:
+- 1000 images
+- 3 epochs  
+- LoRA fine-tuning
+
+To load this model later:
+1. Load the base model: runwayml/stable-diffusion-v1-5
+2. Load the LoRA weights from: /content/drive/MyDrive/CravingsGenerator/Western_model
+3. Apply LoRA to the UNet
+
+Generated on: 2025-08-13 20:00:59.640537
