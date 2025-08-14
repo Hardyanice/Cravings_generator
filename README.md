@@ -57,8 +57,13 @@ Hardware (GPU recommended, like T4 or A10G)
 C. From Github
 
 1. Go to github repository https://github.com/Hardyanice/Food_image_generator
+
 2. Download all folders and files.]
+
 3. Create a hugginface spaces account
+
 4. Create your own space
+
 5. In that space upload all the files
+
 6. The app will build and run on its own after sometime.
