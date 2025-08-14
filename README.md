@@ -1,4 +1,5 @@
 Configuration data for hugginface spaces(DONOT delete)
+
 metadata
 title: Food Image Generator
 sdk: gradio
