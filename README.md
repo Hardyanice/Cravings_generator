@@ -40,6 +40,7 @@ A. Direct Website Access
 3. Describe your food: Enter a detailed description like:
 
 "A juicy beef burger with lettuce, tomato, and fries on the side"
+
 "Butter chicken curry with basmati rice and fresh naan bread"
 
 
