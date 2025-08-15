@@ -83,4 +83,5 @@ C. From Github
 ---
 
 Repository Link: https://github.com/Hardyanice/Cravings_generator
+
 Spaces Link: https://huggingface.co/spaces/Hardyanice/Food_image_generator
