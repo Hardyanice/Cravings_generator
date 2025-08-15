@@ -1,5 +1,3 @@
-Configuration data for hugginface spaces(DONOT delete)
-
 metadata
 title: Food Image Generator
 sdk: gradio
@@ -10,6 +8,7 @@ pinned: false
 short_description: 'AI based image generation app for western and Indian food '
 sdk_version: 5.42.0
 
+Above is configuration data for hugginface spaces(DONOT delete)
 ---
 🍽️ Cravings Generator
 
@@ -80,3 +79,8 @@ C. From Github
 5. In that space upload all the files
 
 6. The app will build and run on its own after sometime.
+
+---
+
+Repository Link: https://github.com/Hardyanice/Cravings_generator
+Spaces Link: https://huggingface.co/spaces/Hardyanice/Food_image_generator
